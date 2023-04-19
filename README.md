@@ -11,4 +11,4 @@ Make sure your `dataset/ImageNet`  folder is structured as follows:
 |   └── val
 ```
 
-## MetaData
+## Metadata
