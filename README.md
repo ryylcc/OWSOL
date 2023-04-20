@@ -1,5 +1,5 @@
 # OWSOL
-Code of ourr paper Open-World Weakly-Supervised Object Localization.
+Code of our paper Open-World Weakly-Supervised Object Localization.
 
 ## Dataset
 ### ImageNet-1K
